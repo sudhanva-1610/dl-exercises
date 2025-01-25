@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1dvozmUwXujmHBgHgmMycNsKaxP3eKvoB
 """
 
-# MNIST Multicalss classification using CNN - LeNET, AlexNET and VGGNET
+# MNIST Multicalss classification using CNN 
 
 # Necessary imports
 import numpy as np
